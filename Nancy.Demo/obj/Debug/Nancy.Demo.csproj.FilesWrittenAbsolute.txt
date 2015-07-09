@@ -1,0 +1,11 @@
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/Microsoft.Owin.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/Nancy.Owin.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/Owin.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/Nancy.ViewEngines.Razor.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/Nancy.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/System.Web.Razor.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/Nancy.Demo.dll.mdb
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/bin/Debug/Nancy.Demo.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/obj/Debug/Nancy.Demo.dll
+/home/lujiejie/summerworksapce/environment/tinyfox-1.0-linux_x64/tools/Adapter.demos/Nancy.Demo/obj/Debug/Nancy.Demo.dll.mdb

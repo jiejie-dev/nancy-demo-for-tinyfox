@@ -1,0 +1,11 @@
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Nancy.Demo.dll
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Nancy.Demo.pdb
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Microsoft.Owin.dll
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Nancy.dll
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Nancy.Owin.dll
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Owin.dll
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Microsoft.Owin.xml
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Nancy.xml
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\bin\Debug\Nancy.Owin.xml
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\obj\Debug\Nancy.Demo.dll
+S:\Jexus\OwinAdapters\Jws.OwinAdapter.MsOwin-v3.0\Nancy.Demo\obj\Debug\Nancy.Demo.pdb
